@@ -1,0 +1,10 @@
+00000,Alabaster ValueMart,2410 S Main St,Bloomington, IL,617040,^3|100^50|48^250|1011^40,4201 Westown Pkwy West Des Moines IA 50266
+0000593,Chicago State St. ValueMart,5 S State St,Chicago,IL,60603,0^3|100^50|48^250|1011^40|325^50|200^60,940 S Frontage Rd Woodridge IL 60517
+0000674,Ft Wayne NE ValueMart,1500 N 2nd St,Cherokee,IA,51012,0^3|100^50|48^250,4201 Westown Pkwy West Des Moines IA 50266
+0000714,West Des Moines SW SuperValueMart,1300 S Lake Shore Dr, Chicago, IL 60605,0^3|100^50|48^250,1300 S Lake Shore Dr, Chicago, IL 60605
+0000715,Derby ValueMart,2024 N Rock Rd,Derby,KS,67037,0^3|100^50|48^250,4201 Westown Pkwy West Des Moines IA 50266
+00000,Alabaster ValueMart,2600 S 48th St,Lincoln,NE,68506,^3|100^50|48^250|1011^40,4201 Westown Pkwy West Des Moines IA 50266
+0000593,Chicago State St. ValueMart3255 Main St,Kansas City,MO,64111,0^3|100^50|48^250|1011^40|325^50|200^60,940 S Frontage Rd Woodridge IL 60517
+0000674,Ft Wayne NE ValueMart,1510 N Burlington Ave,Hastings,NE,68901,0^3|100^50|48^250,4201 Westown Pkwy West Des Moines IA 50266
+0000714,West Des Moines SW SuperValueMart,930 Wriverside Blvd,Rockford,IL,61103,0^3|100^50|48^250,4201 Westown Pkwy West Des Moines IA 50266
+0000715,Derby ValueMart,1709 Laporte Rd Waterloo,IA,50702,0^3|100^50|48^250,4201 Westown Pkwy West Des Moines IA 50266

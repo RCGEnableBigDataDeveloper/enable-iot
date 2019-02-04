@@ -1,0 +1,241 @@
+/*
+ * It is advised not to edit the smartadmin_production.css
+ * as this will override any changes you make in the
+ * later versions of this theme.
+ *
+ * We advise that you use use this CSS to override
+ * SmartAdmin styles.
+ *
+ * Rename the stylesheet to whatever your liking so it will stay
+ * unique to you with each update of SmartAdmin.
+ */
+
+/*
+ * INDEX
+ *
+ * - HTML
+ * - BODY
+ * - CUSTOM STYLES
+ */
+
+
+/* RCG Brand */
+html, body {
+    /*font-family: "Century Gothic", sans-serif;*/
+    /*font-family: "Open Sans", sans-serif;*/
+    /*font-family: sans-serif;*/
+    background-color: #EFEFEF;
+}
+h1,h2,h3,h4 {
+    /*font-family: "Century Gothic", sans-serif;*/
+}
+
+/*@media (max-width: 979px)*/
+.profile-pic+div, .profile-pic+div+div {
+/*    padding-left: 30px;
+    padding-right: 30px; */
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+aside {
+  /*display: block;
+  background: #3a3633;
+  background: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSI5NyUiIHN0b3AtY29sb3I9IiMzYTM2MzMiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMmEyNzI1IiBzdG9wLW9wYWNpdHk9IjEiLz4KICA8L2xpbmVhckdyYWRpZW50PgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9InVybCgjZ3JhZC11Y2dnLWdlbmVyYXRlZCkiIC8+Cjwvc3ZnPg==");
+  background: -moz-linear-gradient(left, #3a3633 93%, #2a2725 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(93%, #3a3633), color-stop(100%, #2a2725));
+  background: -webkit-linear-gradient(left, #3a3633 93%, #2a2725 100%);
+  background: -o-linear-gradient(left, #3a3633 93%, #2a2725 100%);
+  background: -ms-linear-gradient(left, #3a3633 93%, #2a2725 100%);
+  background: linear-gradient(to right, #3a3633 93%, #2a2725 100%);
+  min-height: 100%; */
+  /*
+    Item    font            size    color
+    Arrow:                          R168 G199 B220: A8C7DC
+    RCG:    century gothic  20      R0 G51 B100:  003364
+    Global Services: “      18      R118 G151 B184:  7697B8
+    @:      Calibri light   18      “ */
+  background: -moz-linear-gradient(left, #3a3633 0%, #003364 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #3a3633), color-stop(100%, #003364));
+  background: -webkit-linear-gradient(left, #3a3633 0%, #003364 100%);
+  background: -o-linear-gradient(left, #3a3633 0%, #003364 100%)
+  background: -ms-linear-gradient(left, #3a3633 0%, #003364 100%);
+  background: linear-gradient(to right, #3a3633 0%, #003364 100%);
+}
+
+.jarviswidget-color-blue>header {
+/*    border-color: #45474b!important;
+    background: #4c4f53;
+    color: #fff;*/
+/*    border-color: #003364!important;
+    background: #003364; */
+}
+
+.rcg-brand-text {
+    font-family: "Calibri Light";
+    /*letter-spacing: -1px;*/
+    font-size: 24px;
+    /*font-family: "Century Gothic";
+    letter-spacing: 0px;
+    font-size: 20px;*/
+    /*font-weight: 50;*/
+    /*line-height: 36px;*/
+    padding-top: 10px;
+    /*padding-bottom: -30px;*/
+    color: black;
+}
+
+/* For google maps */
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#map {
+    height: 100%;
+}
+
+.menu-on-top .menu-item-parent {
+    max-width: 98px !important;
+}
+
+li.active {
+    color: #FFF205;
+}
+
+li.active2 {
+    font-size: 24px;
+}
+
+#rcg-right-profile {
+/*    display: none !important; */
+    padding-right: 2px !important;
+    padding-left: 2px !important;
+}
+
+#rcg-right-profile-img {
+    height: 30px;
+    width: 30px;
+}
+
+#logo-group {
+    /*width: 400px !important;*/
+}
+
+img.rcg-left-logo {
+    /* width: 37px !important; */
+    height: 46px  !important;
+    height: auto;
+    padding-left: 5px;
+    padding-top: 2px;
+}
+
+/*img.rcg-right-logo {
+    height: 32px  !important;
+}*/
+/*img.rcg-right-logo {
+    /*width: 37px !important;-/
+    height: 48px  !important;
+    height: auto;
+    margin-right: -5px;
+    padding-right: 0px;
+    padding-top: 2px;
+    padding-left: 10px;
+}*/
+
+img.rcg-ribbon-logo {
+    width: 30px;
+    height: 30px;
+    margin-top: -5px;
+    margin-right: 20px;
+    margin-left: 5px;
+}
+
+img.breadcrumb-logo {
+    /*width: 200px;*/
+    /*height: 100px;*/
+}
+
+/*img.rcg-enable-img-map {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    /*bottom: 0;-/
+    /*float: left;-/
+}*/
+
+.rcg-enable-footer {
+    position: relative !important;
+}
+
+#ribbon {
+    /*min-height: 40px;
+    background: #474544;
+    padding: 0 13px;
+    position: relative;*/
+    /*background: #3a3633;*/
+    background: #003364;
+}
+
+#ribbon .breadcrumb {
+    /* display: inline-block;
+    margin: 0;
+    padding: 11px 34px 11px 0!important;
+    background: 0 0;
+    vertical-align: top; */
+    padding: 10px 0px 0px 0!important;
+}
+
+    /*background-color: lightblue;*/
+    /*display: none;*/
+    /*visibility: hidden;*/
+    /*opacity: 0;*/
+    /*height: 0px;*/
+
+.custom-scroll .dt-toolbar {
+    height: 0px;
+    opacity: 0;
+}
+
+.custom-scroll .dt-toolbar div {
+    height: 0px;
+    opacity: 0;
+}
+
+#jarviswidget-fullscreen-mode .dt-toolbar {
+    height: inherit;
+    opacity: 1;
+}
+
+#jarviswidget-fullscreen-mode .dt-toolbar div {
+    height: inherit;
+    opacity: 1;
+}
+
+.open>.dropdown-menu {
+    -webkit-animation-duration: 0s !important;
+    -moz-animation-duration: 0s !important;
+    -o-animation-duration: 0s !important;
+    animation-duration: 0s !important;
+}
+
+/*-webkit-tap-highlight-color: rgba(169,3,41,.5);*/
+.simple-marquee-container a {
+    color: Black;
+    text-decoration: underline;
+}
+
+.simple-marquee-container a:visited {
+    color: Navy;
+    text-decoration: underline;
+}
+
+.no-top-bottom-margin {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.figure-inline {
+    display: inline-block;
+}

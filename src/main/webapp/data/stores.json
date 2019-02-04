@@ -1,0 +1,66 @@
+[ {
+	"id" : 0,
+	"name" : "Alabama",
+	"children" : [ {
+		"id" : 211,
+		"name" : "Store 1",
+		"size" : "142 KB",
+		"date" : "01/13/2010"
+	}, {
+		"id" : 212,
+		"name" : "Store 2",
+		"size" : "5 KB",
+		"date" : "01/13/2010"
+	} ]
+}, {
+	"id" : 1,
+	"name" : "Alaska",
+	"size" : "",
+	"date" : "02/19/2010",
+	"children" : [ {
+		"id" : 2,
+		"name" : "Stores",
+		"size" : "120 MB",
+		"date" : "03/20/2010",
+		"children" : [ {
+			"id" : 21,
+			"name" : "Store 3",
+			"size" : "",
+			"date" : "01/13/2010",
+			"state" : "closed",
+			"children" : [ {
+				"id" : 211,
+				"name" : "java.exe",
+				"size" : "142 KB",
+				"date" : "01/13/2010"
+			}, {
+				"id" : 212,
+				"name" : "jawt.dll",
+				"size" : "5 KB",
+				"date" : "01/13/2010"
+			} ]
+		}, {
+			"id" : 22,
+			"name" : "Store 4",
+			"size" : "",
+			"date" : "01/13/2010",
+			"state" : "closed",
+			"children" : [ {
+				"id" : 221,
+				"name" : "my.ini",
+				"size" : "10 KB",
+				"date" : "02/26/2009"
+			}, {
+				"id" : 222,
+				"name" : "my-huge.ini",
+				"size" : "5 KB",
+				"date" : "02/26/2009"
+			}, {
+				"id" : 223,
+				"name" : "my-large.ini",
+				"size" : "5 KB",
+				"date" : "02/26/2009"
+			} ]
+		} ]
+	} ]
+} ]

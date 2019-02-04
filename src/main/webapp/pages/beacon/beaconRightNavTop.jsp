@@ -1,0 +1,1 @@
+<img src='/img/hand.png' id='beaconimg'/>

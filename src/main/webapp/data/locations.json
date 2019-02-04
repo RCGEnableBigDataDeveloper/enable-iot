@@ -1,0 +1,31 @@
+[ {
+	"address" : "1419 Half Day Rd Highland Park IL",
+	"data" : "1419 Half Day Rd Highland Park IL",
+	"options" : {
+		"icon" : "images/walgreens_small.png"
+	}
+}, {
+	"address" : "1519 Lake Cook Rd Deerfield IL",
+	"data" : "1519 Lake Cook Rd Deerfield IL",
+	"options" : {
+		"icon" : "images/walgreens_small.png"
+	}
+}, {
+	"address" : "780 Waukegan Rd Deerfield IL",
+	"data" : "780 Waukegan Rd Deerfield IL",
+	"options" : {
+		"icon" : "images/walgreens_small.png"
+	}
+}, {
+	"address" : "200 Wilmot Rd Deerfield IL",
+	"data" : "200 Wilmot Rd Deerfield IL",
+	"options" : {
+		"icon" : "images/walgreens_small.png"
+	}
+}, {
+	"address" : "2501 Waukegan Rd Bannockburn IL",
+	"data" : "2501 Waukegan Rd Bannockburn IL",
+	"options" : {
+		"icon" : "images/walgreens_small.png"
+	}
+} ]

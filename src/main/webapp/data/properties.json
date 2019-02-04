@@ -1,0 +1,25 @@
+[
+	{"name":"ID","value":"","group":"ID Settings","editor":"text"},
+	{"name":"Name","value":"","group":"ID Settings","editor":"text"},
+	{"name":"Create On","value":"","group":"ID Settings","editor":"datebox"},
+	{"name":"Email","value":"","group":"Advanced Properies","editor":{
+		"type":"validatebox",
+		"options":{
+			"validType":"email"
+		}
+	}},
+	{"name":"Dimensions","value":"false","group":"Advanced Properies","editor":{
+		"type":"checkbox",
+		"options":{
+			"on":true,
+			"off":false
+		}
+	}},
+	{"name":"ID","value":"","group":"Layout Information","editor":"text"},
+	{"name":"Name","value":"","group":"Layout Information","editor":"text"},
+	{"name":"Create On","value":"","group":"Layout Information","editor":"datebox"},
+	
+	{"name":"ID","value":"","group":"Display Settings","editor":"text"},
+	{"name":"Name","value":"","group":"Display Settings","editor":"text"},
+	{"name":"Create On","value":"","group":"Display Settings","editor":"datebox"}
+]

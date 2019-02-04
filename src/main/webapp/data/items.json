@@ -1,0 +1,68 @@
+[ {
+
+	"text" : "Report Objects",
+	"state" : {
+				"opened" : true
+			},
+	"children" : [ {
+		"text" : "Tables",
+		"state" : {
+				"opened" : true
+			},
+		"children" : [ {
+			"text" : "Spreadsheet",
+			"icon" : "images/ro_table.png",
+			"type" : "spreadsheet"
+		}, {
+			"text" : "Data Grid",
+			"icon" : "images/ro_pgCont.png",
+			"type" : "grid"
+		}]
+	},{
+		"text" : "Charts",
+		"state" : {
+				"opened" : true
+			},
+		"children" : [ {
+			"text" : "Bar Chart",
+			"icon" : "images/ro_vBar.png",
+			"type" : "bar"
+		}, {
+			"text" : "Pie Chart",
+			"icon" : "images/ro_pie.png",
+			"type" : "pie"
+		} , {
+			"text" : "Scatter Plot",
+			"icon" : "images/ro_scatter.png",
+			"type" : "scatter"
+		} , {
+			"text" : "Stacked Bar",
+			"icon" : "images/ro_hBarStacked.png",
+			"type" : "stacked"
+		}, {
+			"text" : "Line Chart",
+			"icon" : "images/ro_line.png",
+			"type" : "line"
+		}]
+	}, {
+		"text" : "Maps",
+		"state" : {
+				"opened" : true
+			},
+		"children" : [ {
+			"text" : "Region Map",
+			"icon" : "images/map.png",
+			"type" : "region"
+		}]
+	} , {
+		"text" : "Basic",
+		"state" : {
+				"opened" : true
+			},
+		"children" : [ {
+			"text" : "Text Box",
+			"icon" : "images/ro_text.png",
+			"type" : "text"
+		}]
+	} ]
+} ]

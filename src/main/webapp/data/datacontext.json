@@ -1,0 +1,19 @@
+[ {
+	"text" : "Facebook",
+	"value" : "fb",
+	"selected" : "false",
+	"description" : "Facebook Social Data",
+	"imageSrc" : "images/db.png"
+}, {
+	"text" : "Twitter",
+	"value" : "twitter",
+	"selected" : "false",
+	"description" : "Twitter Feed",
+	"imageSrc" : "images/db.png"
+}, {
+	"text" : "LinkedIn",
+	"value" : "li",
+	"selected" : "false",
+	"description" : "LinkedIn Social Data",
+	"imageSrc" : "images/linkedin-icon-32.png"
+}]
